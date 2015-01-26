@@ -1,5 +1,6 @@
 # spell_correct
 1.data存放系统所需要的词典，磁盘缓存文件，日志系统，data下my.conf的路径需要自行修改
+
 2.make_dic 目录下是两个文件分别可以造英文词库和中文词库
 3.tranfer 下chinese_word_segmentation.py可以对中文进行分词，decodegbktoutf.cpp用来对
 非utf_8编码的文件进行转码
